@@ -1,2 +1,2 @@
 # ADSI-Tools
- Collection of PowerShell functions for accessing Active Directory usind ADSI
+ Collection of PowerShell functions for accessing Active Directory using ADSI.
